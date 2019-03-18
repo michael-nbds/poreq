@@ -1,0 +1,16 @@
+.DS_Store
+.Trashes
+*.vbw
+*.csi
+*.exp
+*.lib
+*.lvw
+*.dca
+*.scc
+*.tmp
+*.exe
+*.dll
+*.ini
+*.D10
+*.asc
+*.mdb
